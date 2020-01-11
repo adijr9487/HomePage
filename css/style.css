@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 6em;
+  color: #66BFBF;
+  line-height: 200%;
+}
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+  font-size: 2rem;
+}
+h3{
+  color: #11999E;
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+p {
+  color: #40514E;
+  font-weight: 600;
+}
+.into {
+  width : 30%;
+  margin: auto;
+}
+.header {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+.pro {
+  text-decoration: underline;
+}
+hr {
+  width: 4%;
+  border: 0px;
+  border-top: lightgrey 6px;
+  border-top-style: dotted;
+}
+.upperCloud{
+  position: relative;
+  left: 200px;
+}
+.bottumCloud{
+    position: absolute;
+}
+.profile img{
+  height: 200px;
+  width: 220px;
+  border-radius: 100%;
+}
+.computer {
+  border-radius: 100%;
+  width: 25%;
+  float:left;
+  padding: 0 30px;
+}
+.game {
+  border-radius: 100%;
+  width: 25%;
+  float:right;
+  padding: 0 30px;
+}
+.skills, .profile{
+  padding: 60px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+.contact-me {
+  margin: 70px auto;
+}
+.contact-me h2, .contact-me h3, .contact-me p{
+  margin: 40px auto;
+}
+.btn {
+  display: inline-block;
+  height: 40px;
+  width: 190px;
+  background-color: #66bfbf;
+  color: white;
+  line-height: 40px;
+  border-radius: 4%;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  padding: 50px;
+  margin: 0;
+}
+.footer-link:hover {
+  color: #0c696c;
+  }
+.btn:hover {
+  background-color: #459393 ;
+}
+.footer-link {
+  color: #11999E;
+  margin: 30px;
+  font-weight: bold;
+}
+.cpywrt {
+  padding-top: 40px;
+  margin: 0;
+  color: white;
+}
